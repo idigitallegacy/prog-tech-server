@@ -1,0 +1,776 @@
+{
+    "steamid": "76561198199692363",
+    "matchid": "7600465479",
+    "data": [
+        {
+            "game_time": "191",
+            "net_worth": "700",
+            "gpm": "0",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "222",
+            "net_worth": "650",
+            "gpm": "0",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "251",
+            "net_worth": "650",
+            "gpm": "0",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "281",
+            "net_worth": "738",
+            "gpm": "1125",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "311",
+            "net_worth": "733",
+            "gpm": "228",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "341",
+            "net_worth": "798",
+            "gpm": "164",
+            "xpm": "93",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "371",
+            "net_worth": "843",
+            "gpm": "141",
+            "xpm": "110",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "401",
+            "net_worth": "888",
+            "gpm": "128",
+            "xpm": "124",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        },
+        {
+            "game_time": "431",
+            "net_worth": "1138",
+            "gpm": "220",
+            "xpm": "300",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "461",
+            "net_worth": "1366",
+            "gpm": "236",
+            "xpm": "329",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "491",
+            "net_worth": "811",
+            "gpm": "215",
+            "xpm": "283",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "521",
+            "net_worth": "896",
+            "gpm": "210",
+            "xpm": "293",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "551",
+            "net_worth": "1441",
+            "gpm": "197",
+            "xpm": "283",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "581",
+            "net_worth": "1486",
+            "gpm": "186",
+            "xpm": "280",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "1"
+            }
+        },
+        {
+            "game_time": "611",
+            "net_worth": "1103",
+            "gpm": "193",
+            "xpm": "283",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "2"
+            }
+        },
+        {
+            "game_time": "641",
+            "net_worth": "1874",
+            "gpm": "185",
+            "xpm": "260",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "2"
+            }
+        },
+        {
+            "game_time": "671",
+            "net_worth": "1543",
+            "gpm": "177",
+            "xpm": "260",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "2"
+            }
+        },
+        {
+            "game_time": "701",
+            "net_worth": "1588",
+            "gpm": "171",
+            "xpm": "255",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "2"
+            }
+        },
+        {
+            "game_time": "731",
+            "net_worth": "1604",
+            "gpm": "166",
+            "xpm": "260",
+            "kda": {
+                "kills": "0",
+                "deaths": "1",
+                "assists": "2"
+            }
+        },
+        {
+            "game_time": "761",
+            "net_worth": "1442",
+            "gpm": "212",
+            "xpm": "283",
+            "kda": {
+                "kills": "1",
+                "deaths": "1",
+                "assists": "3"
+            }
+        },
+        {
+            "game_time": "791",
+            "net_worth": "2092",
+            "gpm": "211",
+            "xpm": "299",
+            "kda": {
+                "kills": "1",
+                "deaths": "1",
+                "assists": "3"
+            }
+        },
+        {
+            "game_time": "821",
+            "net_worth": "2137",
+            "gpm": "204",
+            "xpm": "290",
+            "kda": {
+                "kills": "1",
+                "deaths": "1",
+                "assists": "3"
+            }
+        },
+        {
+            "game_time": "851",
+            "net_worth": "2181",
+            "gpm": "198",
+            "xpm": "287",
+            "kda": {
+                "kills": "1",
+                "deaths": "1",
+                "assists": "3"
+            }
+        },
+        {
+            "game_time": "881",
+            "net_worth": "2722",
+            "gpm": "245",
+            "xpm": "300",
+            "kda": {
+                "kills": "1",
+                "deaths": "1",
+                "assists": "6"
+            }
+        },
+        {
+            "game_time": "911",
+            "net_worth": "2888",
+            "gpm": "246",
+            "xpm": "289",
+            "kda": {
+                "kills": "1",
+                "deaths": "2",
+                "assists": "6"
+            }
+        },
+        {
+            "game_time": "941",
+            "net_worth": "2988",
+            "gpm": "244",
+            "xpm": "276",
+            "kda": {
+                "kills": "1",
+                "deaths": "2",
+                "assists": "6"
+            }
+        },
+        {
+            "game_time": "971",
+            "net_worth": "3228",
+            "gpm": "252",
+            "xpm": "308",
+            "kda": {
+                "kills": "1",
+                "deaths": "3",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1001",
+            "net_worth": "3284",
+            "gpm": "253",
+            "xpm": "296",
+            "kda": {
+                "kills": "1",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1031",
+            "net_worth": "3331",
+            "gpm": "246",
+            "xpm": "284",
+            "kda": {
+                "kills": "1",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1061",
+            "net_worth": "2118",
+            "gpm": "269",
+            "xpm": "314",
+            "kda": {
+                "kills": "2",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1091",
+            "net_worth": "2248",
+            "gpm": "272",
+            "xpm": "305",
+            "kda": {
+                "kills": "2",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1121",
+            "net_worth": "3970",
+            "gpm": "266",
+            "xpm": "294",
+            "kda": {
+                "kills": "2",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1151",
+            "net_worth": "4018",
+            "gpm": "260",
+            "xpm": "300",
+            "kda": {
+                "kills": "2",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1181",
+            "net_worth": "4272",
+            "gpm": "268",
+            "xpm": "301",
+            "kda": {
+                "kills": "2",
+                "deaths": "4",
+                "assists": "7"
+            }
+        },
+        {
+            "game_time": "1211",
+            "net_worth": "5244",
+            "gpm": "322",
+            "xpm": "326",
+            "kda": {
+                "kills": "3",
+                "deaths": "4",
+                "assists": "9"
+            }
+        },
+        {
+            "game_time": "1241",
+            "net_worth": "5303",
+            "gpm": "323",
+            "xpm": "326",
+            "kda": {
+                "kills": "3",
+                "deaths": "5",
+                "assists": "9"
+            }
+        },
+        {
+            "game_time": "1271",
+            "net_worth": "5513",
+            "gpm": "326",
+            "xpm": "316",
+            "kda": {
+                "kills": "3",
+                "deaths": "5",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1301",
+            "net_worth": "4825",
+            "gpm": "335",
+            "xpm": "326",
+            "kda": {
+                "kills": "3",
+                "deaths": "5",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1331",
+            "net_worth": "4336",
+            "gpm": "340",
+            "xpm": "338",
+            "kda": {
+                "kills": "3",
+                "deaths": "5",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1361",
+            "net_worth": "6237",
+            "gpm": "336",
+            "xpm": "336",
+            "kda": {
+                "kills": "3",
+                "deaths": "6",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1391",
+            "net_worth": "6285",
+            "gpm": "330",
+            "xpm": "327",
+            "kda": {
+                "kills": "3",
+                "deaths": "6",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1421",
+            "net_worth": "6583",
+            "gpm": "337",
+            "xpm": "371",
+            "kda": {
+                "kills": "3",
+                "deaths": "6",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1451",
+            "net_worth": "6580",
+            "gpm": "331",
+            "xpm": "364",
+            "kda": {
+                "kills": "3",
+                "deaths": "6",
+                "assists": "10"
+            }
+        },
+        {
+            "game_time": "1481",
+            "net_worth": "6926",
+            "gpm": "343",
+            "xpm": "375",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1511",
+            "net_worth": "6974",
+            "gpm": "337",
+            "xpm": "366",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1541",
+            "net_worth": "7026",
+            "gpm": "334",
+            "xpm": "358",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1571",
+            "net_worth": "7031",
+            "gpm": "331",
+            "xpm": "356",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1601",
+            "net_worth": "7078",
+            "gpm": "325",
+            "xpm": "353",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1631",
+            "net_worth": "7077",
+            "gpm": "322",
+            "xpm": "345",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "11"
+            }
+        },
+        {
+            "game_time": "1661",
+            "net_worth": "7277",
+            "gpm": "324",
+            "xpm": "339",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "12"
+            }
+        },
+        {
+            "game_time": "1691",
+            "net_worth": "7680",
+            "gpm": "336",
+            "xpm": "375",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1721",
+            "net_worth": "7728",
+            "gpm": "331",
+            "xpm": "370",
+            "kda": {
+                "kills": "3",
+                "deaths": "7",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1751",
+            "net_worth": "8400",
+            "gpm": "356",
+            "xpm": "401",
+            "kda": {
+                "kills": "4",
+                "deaths": "8",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1781",
+            "net_worth": "8447",
+            "gpm": "351",
+            "xpm": "393",
+            "kda": {
+                "kills": "4",
+                "deaths": "8",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1811",
+            "net_worth": "8495",
+            "gpm": "346",
+            "xpm": "394",
+            "kda": {
+                "kills": "4",
+                "deaths": "8",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1841",
+            "net_worth": "8640",
+            "gpm": "345",
+            "xpm": "403",
+            "kda": {
+                "kills": "4",
+                "deaths": "8",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1871",
+            "net_worth": "8688",
+            "gpm": "340",
+            "xpm": "396",
+            "kda": {
+                "kills": "4",
+                "deaths": "8",
+                "assists": "13"
+            }
+        },
+        {
+            "game_time": "1901",
+            "net_worth": "9154",
+            "gpm": "356",
+            "xpm": "425",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "15"
+            }
+        },
+        {
+            "game_time": "1931",
+            "net_worth": "9202",
+            "gpm": "351",
+            "xpm": "417",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "15"
+            }
+        },
+        {
+            "game_time": "1961",
+            "net_worth": "9250",
+            "gpm": "346",
+            "xpm": "412",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "15"
+            }
+        },
+        {
+            "game_time": "1991",
+            "net_worth": "9198",
+            "gpm": "342",
+            "xpm": "406",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "15"
+            }
+        },
+        {
+            "game_time": "2021",
+            "net_worth": "9882",
+            "gpm": "358",
+            "xpm": "421",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "16"
+            }
+        },
+        {
+            "game_time": "2051",
+            "net_worth": "10097",
+            "gpm": "361",
+            "xpm": "424",
+            "kda": {
+                "kills": "4",
+                "deaths": "9",
+                "assists": "16"
+            }
+        },
+        {
+            "game_time": "2081",
+            "net_worth": "10095",
+            "gpm": "360",
+            "xpm": "423",
+            "kda": {
+                "kills": "4",
+                "deaths": "10",
+                "assists": "16"
+            }
+        },
+        {
+            "game_time": "2111",
+            "net_worth": "10029",
+            "gpm": "382",
+            "xpm": "517",
+            "kda": {
+                "kills": "4",
+                "deaths": "10",
+                "assists": "17"
+            }
+        },
+        {
+            "game_time": "2141",
+            "net_worth": "10446",
+            "gpm": "389",
+            "xpm": "527",
+            "kda": {
+                "kills": "4",
+                "deaths": "10",
+                "assists": "17"
+            }
+        },
+        {
+            "game_time": "2171",
+            "net_worth": "10249",
+            "gpm": "385",
+            "xpm": "519",
+            "kda": {
+                "kills": "4",
+                "deaths": "11",
+                "assists": "17"
+            }
+        },
+        {
+            "game_time": "2201",
+            "net_worth": "10299",
+            "gpm": "380",
+            "xpm": "511",
+            "kda": {
+                "kills": "4",
+                "deaths": "11",
+                "assists": "17"
+            }
+        },
+        {
+            "game_time": "2231",
+            "net_worth": "10349",
+            "gpm": "376",
+            "xpm": "503",
+            "kda": {
+                "kills": "4",
+                "deaths": "11",
+                "assists": "17"
+            }
+        },
+        {
+            "game_time": "2261",
+            "net_worth": "10399",
+            "gpm": "372",
+            "xpm": "496",
+            "kda": {
+                "kills": "4",
+                "deaths": "11",
+                "assists": "17"
+            }
+        }
+    ]
+}

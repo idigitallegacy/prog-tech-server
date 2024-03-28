@@ -1,0 +1,17 @@
+{
+    "steamid": "test",
+    "matchid": "12345",
+    "data": [
+        {
+            "game_time": "10",
+            "net_worth": "600",
+            "gpm": "0",
+            "xpm": "0",
+            "kda": {
+                "kills": "0",
+                "deaths": "0",
+                "assists": "0"
+            }
+        }
+    ]
+}
